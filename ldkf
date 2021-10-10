@@ -1,0 +1,41 @@
+[33mcommit 5c7529a72771e51118f6cab97623ab0bf22d67dd[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-a[m[33m)[m
+Author: ziagit <zia.mmd@gmail.com>
+Date:   Sun Oct 10 14:57:45 2021 +0800
+
+    utils.js added
+
+[33mcommit 17c2d8249160486a642e4b0174020aed08073e18[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: ziadotpoint <zia.mmd@gmail.com>
+Date:   Sun Oct 10 14:48:09 2021 +0800
+
+    added package main
+
+[33mcommit 274b81119b1f10acb6474f139364de4ecc367c80[m
+Author: ziadotpoint <zia.mmd@gmail.com>
+Date:   Sun Oct 10 14:45:04 2021 +0800
+
+    Create README.md
+
+[33mcommit 6f5807f082f7e3535c8f1c0468ef9e8750de9f92[m
+Author: ziagit <zia.mmd@gmail.com>
+Date:   Sun Oct 10 13:54:42 2021 +0800
+
+    added main.go
+
+[33mcommit 8ad72db60d02cf07ae70bbb75c7f6a4fb8272f83[m
+Author: ziagit <zia.mmd@gmail.com>
+Date:   Sun Oct 10 01:34:26 2021 +0800
+
+    added body css
+
+[33mcommit 0d9bbca789d00185a8f13841445d6e2813842109[m
+Author: ziagit <zia.mmd@gmail.com>
+Date:   Sun Oct 10 01:30:07 2021 +0800
+
+    added console
+
+[33mcommit 3d195a948186fc1af2284313b7e177bcbb69cdfc[m
+Author: ziagit <zia.mmd@gmail.com>
+Date:   Sun Oct 10 01:24:48 2021 +0800
+
+    bootstrap project
